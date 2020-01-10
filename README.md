@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FGimunLee%2Fgradle_build_variant_test.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FGimunLee%2Fgradle_build_variant_test?ref=badge_shield)
+
 intro_android_demo
 ==================
 
@@ -41,3 +43,7 @@ Sample Listing:
    - Contact List
  - Chapter 10: Publishing
    - APK Instructions
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FGimunLee%2Fgradle_build_variant_test.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FGimunLee%2Fgradle_build_variant_test?ref=badge_large)
